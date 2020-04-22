@@ -1,0 +1,4 @@
+FOO {
+  global: _Z3foov;
+  local: *;
+};
